@@ -55,9 +55,13 @@ This dashboard simulates how a **bank, fintech company, or payment network** cou
 ---
 ## 📁 Project Files: 
 ![Dashboard Overview]![1](https://github.com/user-attachments/assets/fe766c0c-c741-40d4-bded-54f122de3e91)
+
 ![2](https://github.com/user-attachments/assets/08567231-112b-4ee5-b0c1-ede6966dbac1)
+
 ![3](https://github.com/user-attachments/assets/0bb25248-f21a-4607-97e4-ac7c7499fccb)
+
 ![4](https://github.com/user-attachments/assets/f875858c-1f33-4d7c-9066-c763d0b7e37a)
+
 ![5](https://github.com/user-attachments/assets/c8122664-f1d9-4f4e-9263-40d159902fe7)
 
 

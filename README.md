@@ -1,7 +1,8 @@
 # ![download (1)](https://github.com/user-attachments/assets/d18c1356-c1e0-4420-8900-7a54e70df06e)
  # 📊 UPI Transaction Analysis Dashboard – Power BI Project
+ ![Cover Image](https://github.com/saheb1999/UPI-Transaction-Dashboard_powerbi/blob/main/upi%20cover%20Image.png)
  ![1](https://github.com/user-attachments/assets/fe766c0c-c741-40d4-bded-54f122de3e91)
-  ![Cover Image](https://github.com/saheb1999/UPI-Transaction-Dashboard_powerbi/blob/main/upi%20cover%20Image.png)
+  
 
 
 ---
